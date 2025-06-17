@@ -1,6 +1,8 @@
 # mac-openssl
 
-curl -LO https://github.com/nanto88/mac-openssl/releases/download/v1.0/openssl-1.1.tar.gz
+Since Homebrew has disabled fetching openssl@1.1, 
+this repository provides a way to download and install openssl@1.1 on macOS 
+for those who still need it due to legacy dependencies.
 
 
 # mac-openssl
