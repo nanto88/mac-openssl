@@ -10,7 +10,8 @@ for those who still need it due to legacy dependencies.
 curl -LO https://github.com/nanto88/mac-openssl/releases/download/v1.0/openssl-1.1.tar.gz
 ```
 
-## Extract to Homebrew path manually
+## Extract to Homebrew path manually 
+### (or you can adjust your own directory)
 ```bash
 sudo mkdir -p /opt/homebrew/opt
 sudo tar -xzvf openssl-1.1.tar.gz -C /opt/homebrew/opt
