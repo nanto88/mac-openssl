@@ -4,11 +4,6 @@ Since Homebrew has disabled fetching openssl@1.1,
 this repository provides a way to download and install openssl@1.1 on macOS 
 for those who still need it due to legacy dependencies.
 
-
-# mac-openssl
-
-Precompiled and portable OpenSSL 1.1 for macOS (Apple Silicon / Intel). Useful for systems without Homebrew access.
-
 ## 📦 Download
 
 ```bash
